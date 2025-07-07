@@ -1,1 +1,1 @@
-python solana_bot.py
+start: python solana_bot.py
